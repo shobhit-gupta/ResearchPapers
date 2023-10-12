@@ -2,15 +2,20 @@
 
 Repository for my notes on various Research/White/Yellow Papers mostly in Blockchain domain.
 
-## Reading List
+## Reading/Watch List
+
+- [x] **Blockchain**
+
+  - [x] [How to Time-Stamp a Digital Document](https://link.springer.com/article/10.1007/BF00196791) by Stuart Haber & W. Scott Stornetta
 
 - [x] **Bitcoin & Proof of Work (PoW):**
 
   - [x] [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto
 
-- [ ] **Ethereum Yellow Paper**
+- [ ] **EVM**
 
-  - [ ] [ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER](https://ethereum.github.io/yellowpaper/paper.pdf) by Dr. Gavin Wood
+  - [ ] [Ethereum A Secure Decentralised Generalised Transaction Ledger](https://ethereum.github.io/yellowpaper/paper.pdf) by Dr. Gavin Wood
+  - [x] [Ethereum Execution Layer Specification (successor to the Yellow Paper)](https://www.youtube.com/watch?v=nc_WiewVfT4) by Ethereum Engineering Group
 
 - [ ] **Proof of Stake (PoS):**
 
@@ -30,17 +35,19 @@ Repository for my notes on various Research/White/Yellow Papers mostly in Blockc
   - [ ] [Proofs of Space: When Space is of the Essence](https://eprint.iacr.org/2013/796.pdf) by Sunoo Park, et al.
   - [ ] [Avalanche: A Novel Metastable Consensus Protocol Family for Cryptocurrencies](https://avalabs.org/docs/avalanche/platform/consensus/overview) by Team Rocket et al.
 
-- [ ] **Practical Byzantine Fault Tolerance (PBFT):**
+- [ ] **Byzantine Fault Tolerance**
 
-  - [ ] [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf) by Miguel Castro and Barbara Liskov
+  - [ ] **Practical Byzantine Fault Tolerance (PBFT):**
 
-- [ ] **HoneyBadgerBFT:**
+    - [ ] [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf) by Miguel Castro and Barbara Liskov
 
-  - [ ] [The HoneyBadger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf) by Andrew Miller, et al.
+  - [ ] **HoneyBadgerBFT:**
 
-- [ ] **Tendermint:**
+    - [ ] [The HoneyBadger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf) by Andrew Miller, et al.
 
-  - [ ] [Tendermint: Byzantine Fault Tolerance in the Age of Blockchains](https://tendermint.com/docs/tendermint.pdf) by Jae Kwon
+  - [ ] **Tendermint:**
+
+    - [ ] [Tendermint: Byzantine Fault Tolerance in the Age of Blockchains](https://tendermint.com/docs/tendermint.pdf) by Jae Kwon
 
 - [ ] **Raft:**
 

@@ -41,3 +41,10 @@ All such procedures rely on two assumptions:
 2. There is another perfect entity that views the document and whose integrity & impartiality are beyond doubt.
 
 Such assumptions are even weaker in case of _digital_ documents. This is so for it's extraordinarily easy to tamper with a digital document without any telltale signs.
+
+#### Desirable Aspects of TSS
+
+1. Timestamp data itself and not the medium:
+   - Specifically, the timestamp must be associated with the document's data without any reliance on the medium (hard-drive, usb-stick, etc.) on which the document is stored on.
+   - This ensures that it's impossible for even one bit of the document to change without the change being apparent.
+2. It should be impossible to timestamp a doument with a false time and date.

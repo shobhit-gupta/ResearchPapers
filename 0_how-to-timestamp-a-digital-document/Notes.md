@@ -30,3 +30,14 @@ Essentially, the problem is of timestamping documents in a manner which is beyon
      - On receipt, leave it unopened.
    - In case of a dispute,
      - Time postmarked on the envelope serves as evidence to inventor's claims
+
+### Assumptions
+
+There maybe more elaborate procedures than above. But, they rely on making sure that multiple people handle the records so that any tampering maybe detected by another person.
+
+All such procedures rely on two assumptions:
+
+1. Records can be examined for telltale signs of tampering.
+2. There is another perfect entity that views the document and whose integrity & impartiality are beyond doubt.
+
+Such assumptions are even weaker in case of _digital_ documents. This is so for it's extraordinarily easy to tamper with a digital document without any telltale signs.
